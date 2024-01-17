@@ -26,4 +26,4 @@ print(randint(1,10))
 
 Kod `print("programu")` zagniezdzony w tekscie.
 
-![picture/zdj.jpg](picture/zdj.jpg)
+![zdj.jpg](zdj.jpg)
