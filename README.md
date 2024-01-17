@@ -9,7 +9,7 @@ co</br>najmniej</br>trzy</br>paragrafy
 >>>cytat
 
 Zagniezdzona
-1.lista
+1. lista
   1. numeryczna
 
 Zagniezdzona
