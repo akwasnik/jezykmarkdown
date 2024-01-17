@@ -10,11 +10,11 @@ co</br>najmniej</br>trzy</br>paragrafy
 
 Zagniezdzona
 1.lista
-  1.numeryczna
+  1. numeryczna
 
 Zagniezdzona
 - lista
-  -nienumeryczna
+  - nienumeryczna
 
 ```
 from random import randint
